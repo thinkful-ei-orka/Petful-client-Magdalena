@@ -1,0 +1,16 @@
+body {
+    color: black;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 30px;
+}
+
+.LandingPage-wrapper {
+    border: black solid 1px;
+    margin: 20px;
+    padding: 20px;
+}
